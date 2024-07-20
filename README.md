@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Improve your README.md profile with these amazing badges. See a sample <a href='https://github.com/alexandresanlim'>here</a>
+  使用这些好看的徽章让您的 README.md Profile更丰富美观.在<a href='https://github.com/alexandresanlim'>此处查看示例</a>
 </p>
 
 <p align='center'>
@@ -17,31 +17,31 @@
 
 <br />
 
-## How to use?
+## 使用教程?
 
-1. Get a URL:
+1. 查找一个你喜欢的徽章URL:
 
-   - You can use <kbd>Ctrl</kbd> <kbd>F</kbd> (Windows) or <kbd>⌘</kbd> <kbd>F</kbd> (mac) for find one
+   - 你可以用 <kbd>Ctrl</kbd> <kbd>F</kbd> (Windows) 或者 <kbd>⌘</kbd> <kbd>F</kbd> (mac) 来查找你需要的徽章URL
 
-2. Create a image tag:
+2. 创建图像标签：
 
 ```
-<img src="{BadgeURLHere}" />
+<img src="{填写徽章URL}" />
 ```
 
 or
 
 ```
-![image]({BadgeURLHere})
+![image]({填写徽章URL})
 ```
 
-3. Paste on your profile 🎉
+3. 粘贴到你的Profile 🎉
 
-## Menu
+## 菜单
 
-- [Welcome](#menu)
-- [How to use](#how-to-use)
-- [Badges](#badges)
+- [菜单](#菜单)
+- [使用教程](#使用教程)
+- [Badges](#徽章)
 
   - [🧑🏼‍🏭 Static](#-static)
     - [📊 Analytics](#-analytics-)
@@ -93,7 +93,7 @@ or
 
 <h2 align='center'>🧑🏼‍🏭 Static</h2>
 
-## 📊 Analytics [🔝](#menu)
+## 📊 Analytics [🔝](#菜单)
 
 | Badge                                                                                                                            | URL                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -107,7 +107,7 @@ or
 | <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />                       | `https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white`                       |
 | <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" />                     | `https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white`                     |
 
-## 🤖 Artificial Intelligence [🔝](#menu)
+## 🤖 Artificial Intelligence [🔝](#菜单)
 
 | Badge                                                                                                                               | URL                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -122,7 +122,7 @@ or
 | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />                    | `https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white`                    |
 | <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" />        | `https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white`        |
 
-## 🔗 Blockchain [🔝](#menu)
+## 🔗 Blockchain [🔝](#菜单)
 
 | Badge                                                                                                                    | URL                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
@@ -131,7 +131,7 @@ or
 | <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />       | `https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white`       |
 | <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" />       | `https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge`       |
 
-## 📝 Blog [🔝](#menu)
+## 📝 Blog [🔝](#菜单)
 
 | Badge                                                                                                                  | URL                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -149,7 +149,7 @@ or
 | <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" />                        | `https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white`                        |
 | <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />         | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white`         |
 
-## 👥 Community [🔝](#menu)
+## 👥 Community [🔝](#菜单)
 
 | Badge                                                                                                                    | URL                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
@@ -164,7 +164,7 @@ or
 | <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />                 | `https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white" />             | `https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white`             |
 
-## 📱 Contact [🔝](#menu)
+## 📱 Contact [🔝](#菜单)
 
 | Badge                                                                                                                          | URL                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
@@ -190,7 +190,7 @@ or
 | <img src="https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white" />                           | `https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white`                           |
 | <img src="https://img.shields.io/badge/Zulip-50ADFF?style=for-the-badge&logo=Zulip&logoColor=white" />                         | `https://img.shields.io/badge/Zulip-50ADFF?style=for-the-badge&logo=Zulip&logoColor=white`                         |
 
-## ☁ Cloud [🔝](#menu)
+## ☁ Cloud [🔝](#菜单)
 
 | Badge                                                                                                                            | URL                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -241,7 +241,7 @@ or
 | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />                         | `https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white`                         |
 | <img src="https://img.shields.io/badge/wasmCloud-00BC8E?style=for-the-badge&logo=wasmCloud&logoColor=white" />                   | `https://img.shields.io/badge/wasmCloud-00BC8E?style=for-the-badge&logo=wasmCloud&logoColor=white`                   |
 
-## 💲 Cryptocurrency [🔝](#menu)
+## 💲 Cryptocurrency [🔝](#菜单)
 
 | Badge                                                                                                                    | URL                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
@@ -265,7 +265,7 @@ or
 | <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" />                        | `https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white`                        |
 | <img src="https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=000" />                     | `https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=000`                     |
 
-## ⚡ Database [🔝](#menu)
+## ⚡ Database [🔝](#菜单)
 
 | Badge                                                                                                                                        | URL                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -292,7 +292,7 @@ or
 | <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" />                                       | `https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white`                                       |
 | <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />                                 | `https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white`                                 |
 
-## 🖍 Design [🔝](#menu)
+## 🖍 Design [🔝](#菜单)
 
 | Badge                                                                                                                                        | URL                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -326,7 +326,7 @@ or
 | <img src="https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />                       | `https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white`                       |
 | <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" />                                 | `https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white`                                 |
 
-## 📚 Education [🔝](#menu)
+## 📚 Education [🔝](#菜单)
 
 | Badge                                                                                                                                | URL                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
@@ -357,7 +357,7 @@ or
 | <img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white" />                               | `https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white`                               |
 | <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" />                       | `https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white`                       |
 
-## 🌐 ETL [🔝](#menu)
+## 🌐 ETL [🔝](#菜单)
 
 | Badge                                                                                                            | URL                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -367,7 +367,7 @@ or
 | <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white" />         | `https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Spark AR-FF5C83?style=for-the-badge&logo=Spark%20AR&logoColor=white" />   | `https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white`   |
 
-## 🍔 Food [🔝](#menu)
+## 🍔 Food [🔝](#菜单)
 
 | Badge                                                                                                                  | URL                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -386,7 +386,7 @@ or
 | <img src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white" />         | `https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white" />               | `https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white`               |
 
-## 🚀 Frameworks & Library [🔝](#menu)
+## 🚀 Frameworks & Library [🔝](#菜单)
 
 | Badge                                                                                                                           | URL                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -573,7 +573,7 @@ or
 | <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />                          | `https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white`                          |
 | <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>                             | `https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white`                            |
 
-## ❤ Funding [🔝](#menu)
+## ❤ Funding [🔝](#菜单)
 
 | Badge                                                                                                                      | URL                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -599,7 +599,7 @@ or
 | <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        | `https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white`        |
 | <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/>                    | `https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white`                   |
 
-## 🎮 Games [🔝](#menu)
+## 🎮 Games [🔝](#菜单)
 
 | Badge                                                                                                                                    | URL                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -622,7 +622,7 @@ or
 | <img src="https://img.shields.io/badge/WeGame-FAAB00?style=for-the-badge&logo=wegame&logoColor=white" />                                 | `https://img.shields.io/badge/WeGame-FAAB00?style=for-the-badge&logo=WeGame&logoColor=white`                                 |
 | <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />                                     | `https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white`                                     |
 
-## 🤜 Group [🔝](#menu)
+## 🤜 Group [🔝](#菜单)
 
 | Badge                                                                                                                      | URL                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -636,7 +636,7 @@ or
 | <img src="https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white" />             | `https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white`             |
 | <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />                       | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white`                       |
 
-## 👩‍💻 IDE [🔝](#menu)
+## 👩‍💻 IDE [🔝](#菜单)
 
 | Badge                                                                                                                                | URL                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
@@ -671,13 +671,13 @@ or
 | <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />                         | `https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white`                         |
 | <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />                               | `https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white`                               |
 
-## 🔌 IDE Plugin [🔝](#menu)
+## 🔌 IDE Plugin [🔝](#菜单)
 
 | Badge                                                                                                                 | URL                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000" /> | `https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000` |
 
-## 👩‍💻 Languages [🔝](#menu)
+## 👩‍💻 Languages [🔝](#菜单)
 
 | Badge                                                                                                                      | URL                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -734,7 +734,7 @@ or
 | <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" />         | `https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white`      |
 | <img src="https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" />                         | `https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white`                      |
 
-## 🧐 Linters [🔝](#menu)
+## 🧐 Linters [🔝](#菜单)
 
 | Badge                                                                                                            | URL                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -746,13 +746,13 @@ or
 | <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" />   | `https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white`   |
 | <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7" />              | `https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7`              |
 
-## 🎡 Low Code Platforms [🔝](#menu)
+## 🎡 Low Code Platforms [🔝](#菜单)
 
 | Badge                                                                                                    | URL                                                                                          |
 | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/Appian-2322F0?style=for-the-badge&logo=Appian&logoColor=white" /> | `https://img.shields.io/badge/Appian-2322F0?style=for-the-badge&logo=Appian&logoColor=white` |
 
-## 📱 Mobile Frameworks [🔝](#menu)
+## 📱 Mobile Frameworks [🔝](#菜单)
 
 | Badge                                                                                                                | URL                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -765,7 +765,7 @@ or
 | <img src="https://img.shields.io/badge/Sencha-044059?style=for-the-badge&logo=sencha&logoColor=#95C93D" />           | `https://img.shields.io/badge/Sencha-044059?style=for-the-badge&logo=sencha&logoColor=#95C93D`           |
 | <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />           | `https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white`           |
 
-## 👨‍💻 Office [🔝](#menu)
+## 👨‍💻 Office [🔝](#菜单)
 
 | Badge                                                                                                                                | URL                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
@@ -791,7 +791,7 @@ or
 | <img src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white" />                           | `https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white`                           |
 | <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />                             | `https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white`                             |
 
-## ⚙️ ORM [🔝](#menu)
+## ⚙️ ORM [🔝](#菜单)
 
 | Badge                                                                                                          | URL                                                                                                |
 | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
@@ -800,7 +800,7 @@ or
 | <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>        | `https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white`       |
 | <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" /> | `https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white` |
 
-## 💻 OS [🔝](#menu)
+## 💻 OS [🔝](#菜单)
 
 | Badge                                                                                                                  | URL                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -845,7 +845,7 @@ or
 | <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />       | `https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white`       |
 | <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" />            | `https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white`            |
 
-## 💡 Prototyping Platforms [🔝](#menu)
+## 💡 Prototyping Platforms [🔝](#菜单)
 
 | Badge                                                                                                                    | URL                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
@@ -855,13 +855,13 @@ or
 | <img src="https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white" />           | `https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white`           |
 | <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" /> | `https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white` |
 
-## 📅 Scheduling Automation Platforms [🔝](#menu)
+## 📅 Scheduling Automation Platforms [🔝](#菜单)
 
 | Badge                                                                                                        | URL                                                                                              |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | <img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white" /> | `https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white` |
 
-## 🔒 Security Platforms [🔝](#menu)
+## 🔒 Security Platforms [🔝](#菜单)
 
 | Badge                                                                                                                     | URL                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -875,7 +875,7 @@ or
 
 
 
-## 🔒 Security Tools [🔝](#menu)
+## 🔒 Security Tools [🔝](#菜单)
 
 | Badge                                                                                                                     | URL                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -884,7 +884,7 @@ or
 
 
 
-## 👨 Social [🔝](#menu)
+## 👨 Social [🔝](#菜单)
 
 | Badge                                                                                                                      | URL                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -946,7 +946,7 @@ or
 | <img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white" /> | `https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white` |
 | <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />               | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white`               |
 
-## 👩‍💻 Software Metrics and Analytics [🔝](#menu)
+## 👩‍💻 Software Metrics and Analytics [🔝](#菜单)
 
 | Badge                                                                                                                         | URL                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -962,7 +962,7 @@ or
 | <img src="https://img.shields.io/badge/Wolfram-DD1100?&style=for-the-badge&logo=Wolfram&logoColor=white" />                   | `https://img.shields.io/badge/Wolfram-DD1100?&style=for-the-badge&logo=Wolfram&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/chronicle-4285F4?&style=for-the-badge&logo=googlechronicle&logoColor=white" />                   | `https://img.shields.io/badge/chronicle-4285F4?&style=for-the-badge&logo=googlechronicle&logoColor=white`                   |
 
-## 🎶 Sound [🔝](#menu)
+## 🎶 Sound [🔝](#菜单)
 
 | Badge                                                                                                                      | URL                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -981,14 +981,14 @@ or
 | <img src="https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white" />                     | `https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white`                     |
 | <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />     | `https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white`     |
 
-## 💻 Spatial software [🔝](#menu)
+## 💻 Spatial software [🔝](#菜单)
 
 | Badge                                                                                                               | URL                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white">    | `https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white`    |
 | <img src="https://img.shields.io/badge/qgis-3.22_białowieża-93b023?&style=for-the-badge&logo=qgis&logoColor=white"> | `https://img.shields.io/badge/qgis-3.22_białowieża-93b023?&style=for-the-badge&logo=qgis&logoColor=white` |
 
-## 🛒 Store [🔝](#menu)
+## 🛒 Store [🔝](#菜单)
 
 | Badge                                                                                                              | URL                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
@@ -997,7 +997,7 @@ or
 | <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> | `https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white` |
 | <img src="https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white" />         | `https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white`         |
 
-## 🎞 Streaming [🔝](#menu)
+## 🎞 Streaming [🔝](#菜单)
 
 | Badge                                                                                                                      | URL                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -1012,7 +1012,7 @@ or
 | <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />                 | `https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white" />   | `https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white`   |
 
-## 💻 Terminal [🔝](#menu)
+## 💻 Terminal [🔝](#菜单)
 
 | Badge                                                                                                                          | URL                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
@@ -1029,7 +1029,7 @@ or
 | <img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white">                       | `https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white`                       |
 | <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> | `https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white` |
 
-## 💻 Virtualization [🔝](#menu)
+## 💻 Virtualization [🔝](#菜单)
 
 | Badge                                                                                                          | URL                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -1039,7 +1039,7 @@ or
 | <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"> | `https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white` |
 | <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white">         | `https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white`         |
 
-## 🌐 Web Browsers [🔝](#menu)
+## 🌐 Web Browsers [🔝](#菜单)
 
 | Badge                                                                                                                      | URL                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -1053,7 +1053,7 @@ or
 | <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />         | `https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" />                 | `https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white`                 |
 
-## 🥅 Work/Jobs [🔝](#menu)
+## 🥅 Work/Jobs [🔝](#菜单)
 
 | Badge                                                                                                            | URL                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -1065,7 +1065,7 @@ or
 | <img src="https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=Toptal&logoColor=white" />         | `https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=Toptal&logoColor=white`         |
 | <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />         | `https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white`         |
 
-## ⏱️ Workflow Platforms [🔝](#menu)
+## ⏱️ Workflow Platforms [🔝](#菜单)
 
 | Badge                                                                                                                              | URL                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -1082,7 +1082,7 @@ or
 | <img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59" />                          | `https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59`                          |
 | <img src="https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white" />                           | `https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white`                           |
 
-## 💻 Workspace Spec [🔝](#menu)
+## 💻 Workspace Spec [🔝](#菜单)
 
 | Badge                                                                                                                       | URL                                                                                                             |
 | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -1116,7 +1116,7 @@ Dynamic badges was moved to here: [Badges4-README.md-Profile-Dynamic](https://gi
 <br/>
 <br/>
 
-## ✏ How To Contribute [🔝](#menu)
+## ✏ How To Contribute [🔝](#菜单)
 
 1 - You don't need to make a fork just edit it.
 
@@ -1136,7 +1136,7 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 
 5 - Commit your changes.
 
-## Creators [🔝](#menu)
+## Creators [🔝](#菜单)
 
 It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). We do respect & love our all contributors.
 
